@@ -1,0 +1,4 @@
+RENCANA AZZAM LAIN
+- Mempelajari Model API
+- Mempelajari Git dan Github
+- Mempelajari Firebase
