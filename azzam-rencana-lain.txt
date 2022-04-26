@@ -1,4 +1,7 @@
 RENCANA AZZAM LAIN
 - Mempelajari Model API
 - Mempelajari Git dan Github
+  ~ Branch
+  ~ Merge
+  ~ Remote
 - Mempelajari Firebase
