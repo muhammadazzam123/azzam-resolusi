@@ -1,9 +1,12 @@
 RENCANA AZZAM LAIN
 - Mempelajari Model API
-- Mempelajari State Management
+- Mempelajari Flutter
+  ~ Widget
+  ~ ListView Builder 
 - Mempelajari Git dan Github
   ~ Branch
   ~ Merge
   ~ Remote
 - Mempelajari Firebase
+- Mempelajari Laravel
 
