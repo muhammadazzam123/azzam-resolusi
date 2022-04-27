@@ -1,6 +1,8 @@
 RENCANA AZZAM LAIN
 - Mempelajari Model API
-- Mempelajari State Management
+- Mempelajari Flutter
+  ~ Stateful
+  ~ Stateless
 - Mempelajari Git dan Github
   ~ Branch
   ~ Merge
