@@ -1,8 +1,8 @@
 RENCANA AZZAM LAIN
 - Mempelajari Model API
 - Mempelajari Flutter
-  ~ Widget
-  ~ ListView Builder 
+  ~ Stateful
+  ~ Stateless
 - Mempelajari Git dan Github
   ~ Branch
   ~ Merge
